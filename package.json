@@ -1,0 +1,51 @@
+{
+  "name": "perspiciatisminus",
+  "version": "1.8.1",
+  "description": "Minifier of js, css, html and img",
+  "keywords": [
+    "tenetur",
+    "itaque",
+    "js",
+    "css",
+    "img",
+    "html",
+    "base64"
+  ],
+  "author": "ElzaLeuschke",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaileeJerde/perspiciatisminus.git"
+  },
+  "bin": {
+    "minify": "bin/minify.js"
+  },
+  "preferGlobal": false,
+  "dependencies": {
+    "atarchitecto": "^1.0.0",
+    "autdoloribus": "^1.0.0",
+    "clean-css": "2.2.x",
+    "css-b64-images": "0.2.x",
+    "html-minifier": "~0.6.x",
+    "ischanged": "~1.0.1",
+    "maiorescum": "^1.0.0",
+    "maioreseos": "^1.0.0",
+    "mkdirp": "~0.5.x",
+    "quiquibusdam": "^1.0.0",
+    "quodet": "^1.0.0",
+    "teneturquae": "^1.0.0",
+    "uglify-js": "2.4.x",
+    "util-io": "~1.2.4"
+  },
+  "main": "lib/minify",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.x",
+    "gulp-jshint": "~1.7.1"
+  },
+  "bugs": {
+    "url": "https://github.com/KaileeJerde/perspiciatisminus.git/issues"
+  }
+}
